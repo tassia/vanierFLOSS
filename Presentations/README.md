@@ -1,6 +1,7 @@
 # Presentations 
 
-Here you'll find all presentations given in the context of the club.
+Here you'll find all presentations given in the context of the club:
+ * [FLOSS](FLOSS.pptx)
 
 ## Did not find what you need?
 
