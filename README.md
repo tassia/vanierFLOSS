@@ -12,6 +12,7 @@ more than welcome to join us!
 
 
 <a name="what" />
+
 ## What is FLOSS?
 
 Free/Libre Open Source Software.
@@ -21,6 +22,7 @@ TODO: Talk about the 4 freedoms.
 TODO: List some FLOSS projects, either developed or used by us.
 
 <a name="contributions" />
+
 ## What are typical contributions? Can students help?
 
 Totally yes! If you've done and of the following, that's what we do!
@@ -36,6 +38,7 @@ Even if you haven't done any of the above, if you need a helping hand to start
 contributing, join the club and you'll be at the right place.
 
 <a name="why" />
+
 ## Why should you join the Club?
 
 There is no single answer here, we each have our reasons. If you are interested
@@ -48,6 +51,7 @@ in any of the following, consider joining!
  * Gain [STAR recognition](https://www.vaniercollege.qc.ca/star-program/)
 
 <a name="meetings" />
+
 ## Where and when do we meet?
 
 We use [Jitsi](https://meet.jit.si/) in our virtual meetings, a FLOSS solution
