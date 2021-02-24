@@ -1,0 +1,42 @@
+Vanier FLOSS Club - meeting #1 (Feb 3)
+
+Who was there:
+
+- Gevorg Markarov
+- Kosta Nikopoulos
+- Saqib
+- Chilka
+- Anthony Nadeau
+- Danich
+- Carmelo S.
+- Shahe Bannis
+- Giuliana Bouzon
+- Mgrdich Michael Derderian
+- Devrin Aiden Tiongson
+- Tassia Araujo
+
+Here the list of important take-home messages from the meeting:
+
+- Club meetings should not look like a classroom, we already have enough of that
+- Tassia is not playing the teacher, but the mentor/advisor
+- Participation in video is encouraged, it will allow us to recognize each other
+  when we go back to campus!
+- Attendance will be taken, just for the records
+- If you are interested in using the club activities for STAR recognition,
+  please keep a record of your FLOSS dedicated hours of the week, and talk to
+  Tassia to start sending reports
+- Any FLOSS-related activity is a valid: reading, studying, reporting bugs,
+  fixing bugs, translating, designing logos, making music with or about FLOSS,
+  and the list goes on...
+- Once we have a better idea of what the club is, what do we do, who is welcome
+  to participate, etc - as a written document-, we will be able to announce the
+  club to all students
+- For now, you are free to invite people. Try to give some background so they
+  understand what is going on when they first land in our channel
+- Two students volunteered to present next week: Carmelo and Devrin(?). If you
+  are still not too sure about what FLOSS is, you should not miss next meeting!
+
+The next meeting will happen next Wednesday during UB, so if you can't make it
+again, please speak up and we'll think of an alternative.
+
+Happy hacking!

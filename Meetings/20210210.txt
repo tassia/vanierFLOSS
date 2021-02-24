@@ -1,0 +1,37 @@
+Vanier FLOSS Club - meeting #2 (Feb 10)
+
+Who was there:
+
+- Gevorg Markarov
+- Chilka
+- Anthony Nadeau
+- Carmelo S.
+- Ali
+- Shahe Bannis
+- Giuliana Bouzon
+- Devrin Aiden Tiongson
+- Tassia Araujo
+
+Here is the summary of the meeting:
+
+- Quick check in: random chat about what is going on
+
+- Presentation about FLOSS by Carmelo - "Legendary" according to the audience
+  Slides created by Carmelo & Peter:
+  https://github.com/tassia/vanierFLOSS/blob/main/Presentations/FLOSS.pptx 
+
+- Examples of FLOSS contributions by Devrin
+  1) A project he forked and added a new feature (character select with spinning characters)
+     https://github.com/minenice55/Kart-Public/commit/41e64bb13370f91a019bee05bdfd5697be74d805
+  2) A project for which he is the upstream developer, and open to contributions!
+     https://github.com/minenice55/Snowdon-Engine
+
+- Discussion about what is Vanier FLOSS? Can we use this space to learn new stuff?
+  We definitely need to discuss more about that and come up with a written
+  document, to make sure we are all in the same page, as well as to welcome new
+  membersi. To get inspuired, please check the Vanier Robotics Team:
+  https://www.vaniercollege.qc.ca/robotics/
+
+- Next topics for presentations:
+  - Git 101 (Carmelo and Ali) - Feb 17
+  - Python 101 (Giuliana) - Feb 24

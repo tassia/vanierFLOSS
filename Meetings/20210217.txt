@@ -1,0 +1,29 @@
+Vanier FLOSS Club - meeting #3 (Feb 17)
+
+Who was there:
+- Chilka
+- Giuliana Bouzon
+- Ilan Trutner
+- Tassia Araujo
+
+This time we had a small crowd, but still, we welcomed a new member and had nice
+conversations about the FLOSS world, and brainstormed about activities we can
+have in the club.
+
+The git 101 tutorial was postponed to next week, or maybe the following one,
+let's see when the presenters are ready.
+
+In the following days, I'll try to create a few issues in our repository,
+describing tasks that you could be working on - including those who can't attend
+meetings but want to stay engaged. Whoever has a few hours to spare, it might be
+time to start getting our hands dirty!
+
+Finally, I just saw that a friend of mine has published his Master's thesis on
+the topic: "What are the incentive structures of Free Software?". At the least
+the blog post is worth reading, and if you feel motivated, there you can find
+the link to the complete work:
+https://veronneau.org/what-are-the-incentive-structures-of-free-software.html
+ 
+Happy reading!
+
+Tassia.
