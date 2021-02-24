@@ -1,3 +1,6 @@
+HELLO FROM THE GITHUB PRESENTATION
+
+
 # Vanier FLOSS
 
 Welcome to Vanier College FLOSS Club!
@@ -65,3 +68,6 @@ the week.
 If you want to propose another meeting time, just find another person that is
 available at the same time, announce to the club, then more people might
 join you as well.
+
+
+HELLO FROM THE END OF THE FILE
