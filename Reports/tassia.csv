@@ -1,0 +1,14 @@
+Date,Task,Hours
+20210201,Collected links about about FLOSS & why/how to contribute,1
+20210203,Club meeting #1,1
+20210210,Club meeting #2,1
+20210212,Created git repository: https://github.com/tassia/vanierFLOSS,1
+20210217,Club meeting #3,1
+20210212,"Reading: ""What are the incentive structures of Free Software?""",2
+20210214,Reported bug in Debian (gimp): https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=982828 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=612019,1
+20210219,Debian-Med sprint,3
+20210220,Debian QA - autopkgtest & communication with upstream (epigrass): https://salsa.debian.org/med-team/epigrass/-/commit/21ff7b76346a1eba900f79224de6d839227eb948,3
+20210220,Debian QA - autopkgtest (prottest): https://salsa.debian.org/med-team/prottest/-/commit/b0e068f9a11813fa23be7816101e9d8df0e865a4,1
+20210223,"Improvements to club git repo: README, reports, meetings",2
+,,
+,Total,17
