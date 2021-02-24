@@ -50,4 +50,4 @@ in any of the following, consider joining!
  * Contribute to FLOSS projects
  * Build your developer portfolio
  * Meet friends that share common values
- * Gain [STAR recognition] (https://www.vaniercollege.qc.ca/star-program/)
+ * Gain [STAR recognition](https://www.vaniercollege.qc.ca/star-program/)
