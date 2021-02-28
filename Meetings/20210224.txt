@@ -1,0 +1,45 @@
+Vanier FLOSS Club - meeting #4 (Feb 24)
+
+Who was there:
+
+- Gevorg Markarov
+- Shahe Bannis
+- Giuliana Bouzon
+- Chilka
+- Carmelo S.
+- Anthony Nadeau
+- Ali
+- Tassia 
+
+Here is a summary for those who could not attend:
+
+- New content in our git repository, go and explore!
+  https://github.com/tassia/vanierFLOSS/
+  - Improved README (still with pending TODO tasks)
+  - New folders: Meetings, Presentations, Reports
+
+- Presentation about Git & GitHub by Carmelo & Ali
+  Slides can be retrieved from:
+  https://github.com/tassia/vanierFLOSS/blob/main/Presentations/GitHub.pptx
+
+- The homework of this week is for each of us to choose a FLOSS project and
+  retrieve basic information for our collective list of pontential projects to
+  contribute:
+  - Name of the project
+  - Description
+  - Repository of code
+  - Bug tracking system
+  - Developers/community communication channel
+  - Anything else you find pertinent
+
+Next scheduled presentation is Python 101 by Giuliana. She can't present next
+UB, so let's take this opportunity to re-check our meeting time, since
+attendance has changed a lot in the past few weeks. This way we give
+another opportunity for folks who can never be there during UB.
+
+Please respond to the pool until Tuesday by noon:
+https://framadate.org/tay3bEifc9FFE3Z6
+
+If UB is still the best choice, we will stick to it and Python 101 will be
+postponed to the following week. Otherwise, we'll experiment meeting in a
+different time from now on.
