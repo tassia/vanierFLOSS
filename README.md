@@ -20,7 +20,8 @@ Free/Libre Open Source Software.
 TODO: Talk about the 4 freedoms.
 
 TODO: List some FLOSS projects, either developed or used by us.
-    - Create a repository for Java Algorithms (Starting new project)
+
+* Create a repository for Java Algorithms (Starting new project)
 
 <a name="contributions" />
 
