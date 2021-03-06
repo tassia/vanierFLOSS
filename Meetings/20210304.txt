@@ -1,0 +1,70 @@
+Vanier FLOSS Club - meeting #5 (Mar 04)
+
+Who was there:
+
+- Christina
+- Giuliana Bouzon
+- Armen Jabamikos
+- Gevorg Markarov
+- Anthony Nadeau
+- Chilka
+- Tassia 
+
+Here is a summary for those who could not attend:
+
+- Welcome 2 new club members: Christina and Armen
+
+- General conversation about coding, languages, JSON (we can come back to that
+  next time! - I couldn't follow the chat while we were talking) 
+
+- Useful resources to learn coding with Code academy (Thanks Armen!)
+  https://www.codecademy.com/learn
+
+- Live presentation of Hangman game by Giuliana:
+  https://repl.it/@gbouzon/Day-7-Hangman-5-Start?embed=1&output=1#main.py
+  You have to press the green button on the right to run the game
+
+- Full code (Python + Java equivalent):
+  https://github.com/tassia/vanierFLOSS/tree/main/Presentations/Python%20101
+
+- ASCII Art source: https://ascii.co.uk/art
+
+- Discussion about Python v2 versus Python v3 (eg. raw_input() vs input())
+
+- Some more resources to learn Python (Thanks Christina!)
+  - Python in 4 hours - Full Course:
+    https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org
+  - W3Schools: Python Introduction
+    https://www.w3schools.com/python/python_intro.asp
+  - A Byte of Python
+    https://python.swaroopch.com/
+  - How to Think Like a Computer Scientist - Learning with Python
+    https://greenteapress.com/wp/learning-with-python/
+
+- LibrePlanet 2021 is happening in 2 weeks. It is one of the main general
+  conferences in the FLOSS universe, and is organized by the FSF. Here is
+  the schedule, let's choose a few session to watch and discuss:
+  https://libreplanet.org/2021/program/
+
+- [Off-topic] my hint for those "tab lovers": install the OneTab extension
+  for your browser
+
+- The homework from last week is still on: choose a FLOSS project and
+  retrieve basic information for our collective list of potential projects
+  to contribute. A few questions you might think about when selecting
+  projects:
+  - How popular is the project?
+  - How complex is the project?
+  - Is the project in active development?
+  - Do developers use a public channel of communication?
+  - Do they have many issues/bugs are open? Not necessarily bad!
+  - Explore issues and try to find one that you understand.
+  - Try to download the code and reproduce a bug.
+  - What do you need to learn to start contributing?
+
+The new meeting time worked pretty well. It was nice to see people
+staying after 7, since no one had another class just after. We'll keep this
+time for now, if it really doesn't work for you, please speak up and
+we might run another pool in the future.
+
+Happy hacking!

@@ -10,5 +10,6 @@ Date,Task,Hours
 20210220,Debian QA - autopkgtest & communication with upstream (epigrass): https://salsa.debian.org/med-team/epigrass/-/commit/21ff7b76346a1eba900f79224de6d839227eb948,3
 20210220,Debian QA - autopkgtest (prottest): https://salsa.debian.org/med-team/prottest/-/commit/b0e068f9a11813fa23be7816101e9d8df0e865a4,1
 20210223,"Improvements to club git repo: README, reports, meetings",2
+20210224,"Debian QA - autopkgtest (multiqc): https://salsa.debian.org/med-team/multiqc/-/commit/741a07b5543bc5a0c0a287bc653c2d9a7b8cebe5",2
 ,,
-,Total,17
+,Total,19
