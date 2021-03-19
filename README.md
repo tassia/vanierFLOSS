@@ -6,6 +6,7 @@ If you are just curious or already passionate about the FLOSS world, you are
 more than welcome to join us!
 
  * [What is FLOSS](#what)  
+   * [The 4 essential freedoms](#freedoms) 
  * [What are typical contributions? Can students help?](#contributions)
  * [Why should you join the Club?](#why)
  * [Where and when do we meet?](#meetings)  
@@ -15,11 +16,11 @@ more than welcome to join us!
 
 ## What is FLOSS?
 
-Free/Libre Open Source Software.
+It stands for Free/Libre and Open Source Software, and basically, it is software that respects users' freedom. In order to maintain human rights and civil liberties in the realm of software, below are the 4 essential freedoms as defined by the [Free Software Foundation](https://www.gnu.org/philosophy/free-sw.html).
 
-### The 4 essential freedoms of free software: 
+<a name="freedoms" />
 
-These freedoms are conducted in order to maintain human rights and civil liberties of software.
+### The 4 essential freedoms: 
 
   1. The freedom to run the program as you wish, for any purpose (freedom 0).
   2. The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
