@@ -7,6 +7,7 @@ more than welcome to join us!
 
  * [What is FLOSS](#what)  
    * [The 4 essential freedoms](#freedoms) 
+   * [Curated projects](#projects) 
  * [What are typical contributions? Can students help?](#contributions)
  * [Why should you join the Club?](#why)
  * [Where and when do we meet?](#meetings)  
@@ -27,9 +28,11 @@ It stands for Free/Libre and Open Source Software, and basically, it is software
   3. The freedom to redistribute copies so you can help others (freedom 2).
   4. The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
-TODO: List some FLOSS projects, either developed or used by us.
+<a name="projects" />
 
-* Create a repository for Java Algorithms (Starting new project)
+### Curated projects
+
+Refer to our [curated list of FLOSS projects](projects) and get inspired!
 
 <a name="contributions" />
 
