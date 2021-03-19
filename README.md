@@ -67,10 +67,10 @@ We use [Jitsi](https://meet.jit.si/) in our virtual meetings, a FLOSS solution
 for video conferencing. Join [our channel](https://meet.jit.si/vanierFLOSS) and
 make yourself at home! No accounte needed.
 
-We have a weekly check-in meeting during Vanier UB, which is Wednesday from 12:00
-to 13:00. Ideally, club members would be working on their FLOSS activities over
-the week.
+We have a weekly check-in on Thursday from 18:00 to 19:00, which
+sometimes goes on a bit later. Club members work on their own FLOSS
+activities over the week, and might plan additonal meetings as needed.
 
 If you want to propose another meeting time, just find another person that is
 available at the same time, announce to the club, then more people might
-join you as well.
+join as well!
