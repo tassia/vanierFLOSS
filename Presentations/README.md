@@ -5,7 +5,7 @@ Here you'll find all presentations given in the context of the club:
  * [Git 101](GitHub.pptx)
  * [Python 101](Python%20101)
 
-LibrePlanet is happening in the weekend of Mar 20-21, 2021. Here is a [curated list of events](LibrePlanet.md) that might be of interest!
+*LibrePlanet is happening in the weekend of Mar 20-21, 2021. Check this [curated list of events](LibrePlanet.md) that might be of interest!*
 
 ## Did not find what you need?
 
