@@ -17,7 +17,14 @@ more than welcome to join us!
 
 Free/Libre Open Source Software.
 
-TODO: Talk about the 4 freedoms.
+### The 4 essential freedoms of free software: 
+
+These freedoms are conducted in order to maintain human rights and civil liberties of software.
+
+  1. The freedom to run the program as you wish, for any purpose (freedom 0).
+  2. The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+  3. The freedom to redistribute copies so you can help others (freedom 2).
+  4. The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
 TODO: List some FLOSS projects, either developed or used by us.
 
