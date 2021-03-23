@@ -32,7 +32,7 @@ It stands for Free/Libre and Open Source Software, and basically, it is software
 
 ### Curated projects
 
-Refer to our [curated list of FLOSS projects](projects) and get inspired!
+Refer to our [curated list of FLOSS projects](projects.md) and get inspired!
 
 <a name="contributions" />
 
