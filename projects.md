@@ -54,7 +54,7 @@ There's a lot of things that we can enhanced.
 * Node.JS, which is a runtime of JavaScript for off-browser, server-side usage
 * Node package manager
 * restify, node-static, mongodb and see-no-evil node libraries
-* MangoDB database language and MangoHQ
+* MongoDB database language and MongoHQ
 * Nodejitsu
 * JavaScript
 
