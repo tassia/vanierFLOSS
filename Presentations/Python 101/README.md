@@ -35,7 +35,7 @@ print_hi('Mehdi') # ...and what's not!
 
 ## Hangman
 
-[Giuliana](https://github.com/gbouzon) coded a version of the classic word game in both Python and Java (a programing language that most Vanier FLOSS club are familiar with) to show the differences between the two languages.
+[Giuliana](https://github.com/gbouzon) coded a version of the classic word game in both Python and Java (a programing language that most Vanier FLOSS club members are familiar with) to show the differences between the two languages.
 
 ### How to execute the code
 
