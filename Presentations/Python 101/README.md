@@ -42,7 +42,7 @@ print_hi('Mehdi') # ...and what's not!
 Either download the repository zip folder or clone it using *git*
 
 ```bash
-git clone "https://github.com/tassia/vanierFLOSS/
+git clone "https://github.com/tassia/vanierFLOSS/"
 ```
 Move inside the repo
 
