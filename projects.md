@@ -9,8 +9,6 @@ When adding a new project, try to list the following info:
 * Why this is part of our list (eg. we use, we develop, we contribute or want-to?)
 * Skills needed to start contributing
 
-TODO: Info brought from README, please develop in the template above: "Create a repository for Java Algorithms (Starting new project)"
-
 ## Omnivox Scraper
 This software is a creation of Vanier College's Computer Science and Mathematics student [solonovamax](https://github.com/solonovamax) and is shared under the [MIT license](https://github.com/solonovamax/Omnivox-Scraper/blob/master/LICENSE.md).
 
@@ -32,11 +30,11 @@ This a REST API for the National Assembly of Quebec (*Assemblée Nationale du Qu
 
 The API was developped 9 years ago by GitHub user [mna](https://github.com/mna), who did not update it since. It is now archived, meaning that the original repo is in read-only mode. That is why I [forked](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) the repository under [mehdiben7/assnatapi](https://github.com/mehdiben7/assnatapi). It is quite important to note that since the original author of the code distributed the project under the open-source [MIT License](https://github.com/mna/assnatapi/blob/master/LICENSE), contributors need to keep the same license and copyright notice.
 
-### The project state
+#### The project state
 
 This API needs a lot of love. The API is not hosted in the cloud anymore and probably does not work at the moment, since the AssNat website changed a lot in the past years. The version of the technologies used in this project are also out of date. But I think this project is very interesting so I intend on making it rise from its ashes.
 
-### Contributing
+#### Contributing
 
 This is a cool project that needs support to make it up to date.
 If any other Vanier FLOSS member want to contribute to the project, we can talk about it on the Jitsi. Bugs can also be reported in the ```issues``` section of the repo.
@@ -59,3 +57,25 @@ There's a lot of things that we can enhanced.
 * JavaScript
 
 Understanding French and the basics of the AssNat is also a plus, although a quick research on the web will give you all the information you need
+
+## Usability tests in Debian Bullseye
+
+#### The Debian project
+
+Debian is the FLOSS project behind the GNU/Linux distribution Debian. It is totally run by volunteers, more than 1000 official developers, that work together to build a Free operating system. If you want to learn more about it, the [intro page in Debian's website](https://www.debian.org/intro/about) is a good start.
+
+#### Contributing
+
+There are many ways to contribute to such a large project: building packages, maintaining the website, translation of packages/documentation/website, writing documentation, quality assurance, bug fixing and triaging, advocacy, organizing local events, and [many other ways](https://www.debian.org/intro/help).
+
+#### Usability testing
+
+The last time we heard about usability tests in Debian was in [2017](https://people.debian.org/~intrigeri/blog/posts/GNOME_and_Debian_usability_testing_201705/). We are about to get a new stable realease (codename Bullseye), a good moment to start planning a new set os tests.
+
+A few links for further reading - food for thoughts!
+ - [State Of Linux Usability 2020 - Law Zava](https://lawzava.com/blog/state-of-linux-usability-2020/)
+ - [Usability testing: how do we design effective tasks](https://ubuntu.com/blog/usability-testing-how-do-we-design-effective-tasks)
+ - [Usability Testing & Evaluation of Chores in GNU/Linux for Novice - Muhammad Hamid Fayyaz & Usman Idrees](http://www.diva-portal.org/smash/get/diva2:832464/FULLTEXT01.pdf)
+ - [Usability Testing Contribution Guide - Clarissa Lima](https://github.com/clarissalimab/ux)
+ - [Usability article on Debian Wiki](https://wiki.debian.org/Usability)
+ 
