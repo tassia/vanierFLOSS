@@ -78,4 +78,33 @@ A few links for further reading - food for thoughts!
  - [Usability Testing & Evaluation of Chores in GNU/Linux for Novice - Muhammad Hamid Fayyaz & Usman Idrees](http://www.diva-portal.org/smash/get/diva2:832464/FULLTEXT01.pdf)
  - [Usability Testing Contribution Guide - Clarissa Lima](https://github.com/clarissalimab/ux)
  - [Usability article on Debian Wiki](https://wiki.debian.org/Usability)
+
+## JobFinderBot
+
+A project started by a Vanier graduate of the CST program. The COVID-19 pandemic
+hit the whole word hard. Many people lost their jobs. At the same time, social
+communication platforms like Discord exploded in popularity. With these 2 facts
+in mind, Slav decided to create a Discord bot which uses the [Adzuna
+API](https://developer.adzuna.com/ ) (and potentially other free job search APIs
+in the future) and [DiscordPy](https://discordpy.readthedocs.io/en/stable/) to
+help people find jobs. Currently the bot is deployed/hosted on a free-tier
+Compute Engine VM running in the cloud. The project currently does not generate
+any costs to maintain, but as its user base grows, and more people add the bot
+to their Discord servers, the project will require higher tiers of compute to
+sustain itself. Collaborators on this project may be called upon to provide
+ideas on garnering community funding for the continued support of the project.
+
+* Repository Link: https://github.com/vyacheslav31/JobFinderBot
+* Bug Tracking System: GitHub Issue tracker.
+* Developer's community channel: [Join Discord](https://discord.gg/QZWWaJBRgx) Development Server 
+
+#### Requirements
+1. Knowledge of Python
+2. Able to learn how to use Discord.Py
+3. Understanding of how API calls work 
+4. Understand how to implement & use an in-memory DB with [SQLite3](https://www.sqlite.org/index.html).
+5. Good code readability and documentation skills
+
+#### Example Output
+![Screenshot from 2021-09-16 01-43-54](https://user-images.githubusercontent.com/43866398/133556342-ee74fb97-a9f4-4254-891f-c1dfe1e67cf9.png)
  
