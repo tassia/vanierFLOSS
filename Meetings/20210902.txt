@@ -1,0 +1,35 @@
+Vanier FLOSS Club - meeting #1 (Sep 02)
+
+Location: STEM center
+
+Who was there:
+- Giuliana
+- Chilka
+- Angel
+- Kamyar
+- Tassia
+
+Discussion around the theme: How to bring folks from
+"I don't know what FLOSS is" to "I am a FLOSS contributor"
+
+"Badges" scheme:
+ - FLOSS advocate
+ - FLOSS upstream
+ - FLOSS user/tester
+ - FLOSS bugger: reporting, reproducing, triaging
+ - FLOSS committer: bug fixing, new feature
+ - FLOSS community: mailing list, IRC, matrix, discord
+ - FLOSS documentation: websites, manuals, translations
+ - FLOSS artist: logos, website layouts, ...
+
+Projects ideas & tasks
+ - gather FLOSS we use - visibility, advocacy, exploring devel teams, communication, conferences, 
+ - debian customization for vanier (live image with used tools in the program)
+ - debian usability test
+
+Activities for the future
+ - Movie nights (collect movie ideas)
+ - Talks (guest speakers, who?)
+ - Tutorials (git, licensing, encryption, what else?)
+
+
