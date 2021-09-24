@@ -1,0 +1,34 @@
+Vanier FLOSS Club - meeting 7 (Mar 11)
+
+Who was there:
+- Alihan Djamankulov
+- Joel
+- Giuliana Bouzon
+- Chilka
+- Gevorg Markarov
+- Tassia
+
+Summary:
+
+- Another meetings dedicated to explaining the GSOC and Outreachy programs:
+  what they are, who is eligible, which projects, how to apply
+
+- Consider GSOC/Outreachy tasks, as an entry point to FLOSS projects - this
+  could easily be your first contribution to a FLOSS project, even if you
+  end-up not applying or not being selected, it can be a worthy learning
+  experience!
+
+- There is a lot going on this week in the FLOSS world, here are 3 events that
+  I will participate, and invite you to come along:
+
+  1) Debian packaging workshop (3h), Friday @ 9 am
+     If you are not yet a Linux user, it might be a bit overwhelming, but
+     interesting if you are brave! If you are a Linux user, come and see how
+     packages are built!
+     https://eventyay.com/e/fa96ae2c/session/6731
+
+  2) Bug Squashing Party for Bullseye - the next Debian release, Saturday
+     https://wiki.debian.org/BSP/2021/03/ca/Montreal
+
+  3) LibrePlanet over the weekend, Saturday and Sunday
+     https://libreplanet.org/2021/program/

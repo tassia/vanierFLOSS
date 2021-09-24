@@ -1,0 +1,18 @@
+Vanier FLOSS Club - meeting #6 (Mar 10)
+
+Who was there:
+- Mehdi Benouhoud
+- kamyar karimi
+- Angel Moreno
+- Ron
+- Tassia
+
+An open call sent to all CSM and CST students. This meeting happened during
+UB and was dedicated to explaining the GSOC and Outreachy programs: what they
+are, who is eligible, which projects, how to apply
+
+Consider GSOC/Outreachy tasks, as an entry point to FLOSS projects - this
+could easily be your first contribution to a FLOSS project, even if you end-up
+not applying or not being selected, it can be a worthy learning experience!
+
+Everyone was invited to participate in the regular club meeting on Thursday.

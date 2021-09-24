@@ -1,0 +1,32 @@
+Vanier FLOSS Club - meeting #11 (Apr 16)
+
+Who was there:
+- Medhi
+- Giuliana
+- Chilka
+- Tassia
+
+Our discussion revolved mostly around 2 projects: AssNat API and Usability tests
+in Debian Bullseye. Both of them are currently described in our Projects page:
+https://github.com/tassia/vanierFLOSS/blob/main/projects.md
+
+Today we did not have a meeting, it seems we are getting REALLY busy! Maybe it
+is time to concentrate in our course work? Students and teachers
+
+So I'd like to cal for a break in weekly meetings until we close this term. I
+can run another pool in a couple of weeks for us to choose the date for the
+final meeting of Winter 2021.
+
+As a closure activity, I'd like to distribute some prizes for the most active
+contributors to the Club. We would have pizza if we were able to meet in person!
+But with a bit of creativity we can still have fun and do a "post-mortem" of
+this term's activities. Yeah, I'd like to hear your feedback!
+
+I plan to continue my FLOSS activities in the the summer, so if you have time
+and energy, I'll be there to help you as I can. One project I really want to get
+ready to roll over in the Fall term is the Debian usability test, so if you want
+to help, please speak-up!
+
+I'll create a mailing list and start communicating there, so if you want to be
+kept in the loop, please send me your email address. But until the end of this
+term, I'll be using MIO too for announcements.

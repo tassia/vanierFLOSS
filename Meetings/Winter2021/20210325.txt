@@ -1,0 +1,42 @@
+Vanier FLOSS Club - meetings #8 (Mar 25)
+
+Who was there:
+- Kamyar
+- Tassia
+
+With this small crowd, we had a nice 1-on-1 conversation about our interests and
+how that could be developed in the FLOSS world. Most of the chat revolved around
+game development, and we also talked about working in a team, like Debian games.
+Here are a few links for future reference:
+
+Debian games team
+https://wiki.debian.org/Games/
+
+Wiki on the godot game engine
+https://wiki.debian.org/Games/Godot
+
+Dodge the Creeps! tutorial game and sample packaging for the Godot engine
+https://salsa.debian.org/games-team/dodge-the-creeps
+
+Team repository
+https://salsa.debian.org/games-team
+
+And here is an article that was posted on the Debian games team IRC this week:
+"The complete guide for open sourcing video games"
+https://drewdevault.com/2021/03/23/Open-sourcing-video-games.html
+
+I've also selected 3 FLOSS games that were developed in Vanier, and at least one
+of the authors has participated in the FLOSS club:
+
+https://github.com/gbouzon/dragonRush
+https://github.com/chilkacastro/Final-Toby-s-Adventure-Game
+https://github.com/DavidAnoTrudeau/Empirium
+
+Those three are developed with the Greenfoot game engine.
+
+Take a look at their repo, build and play their games, and we can ask the
+authors to present their game to the club. Even if the original authors are not
+interested in pursuing with the development, if there are other people
+interested, we have a potential for collaborative work. That's the beauty of
+FLOSS!
+

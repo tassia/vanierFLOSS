@@ -1,0 +1,27 @@
+Vanier FLOSS Club - meeting #9 (Apr 01)
+
+Who was there:
+- Giuliana
+- Chilka
+- Tassia
+
+Another great chat about our interests and how that could converge into the
+FLOSS world. I have described two projects I'm actively contributing to:
+
+1) Debian
+I've started drafting usability usability tests for the next Debian stable
+release. In this pad you have many other related links and my brainstorm:
+https://storm.debian.net/grain/rPQJdXqmCLykNfHY2uLeCG
+If you are interested in helping, there are plenty of opportunities for any
+knowledge level. Please let me know, and I'll probably get this rolling over the
+summer.
+
+2) Saskatoon
+The harvest management system used by the fruit picking collective Les Fruits Defendus.
+http://www.lesfruitsdefendus.org
+https://github.com/LesFruitsDefendus/saskatoon-ng/
+We need help with translation, testing, documentation, and coding in python,
+django, CSS+Javascript (bootstrap) We'll actively welcome new contributors in a
+few weeks, so if that is something you might be interested in, please let me
+know!
+
