@@ -1,0 +1,19 @@
+Vanier FLOSS Club - meeting #02 (Sep 09, 2021)
+
+Location: STEM center
+
+Who was there:
+- Giuliana
+- Chilka
+- Tassia
+
+Discussion around: FLOSS in our Computer Science programs
+
+- Started compilation of software we currently use in our CST/CSM programs
+Check out the live documentation: https://pad.riseup.net/p/I7mCZSsPSDlJkCXjzl2m
+
+- Discussed project ideas
+
+- TODO:
+  1. Research the license for each of the softwares listed in the live documentation ^
+  2. Look up alternatives for those that are proprietary

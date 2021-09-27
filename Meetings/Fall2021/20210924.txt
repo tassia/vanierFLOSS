@@ -1,0 +1,26 @@
+Vanier FLOSS Club - meeting #04 (Sep 24, 2021)
+
+Location: STEM center
+
+Who was there:
+- Chilka
+- Giuliana
+- Kamyar
+- Tassia
+
+Discussion around: project contributions
+
+Summary:
+  1. Discussed the different badges and project contributions 
+  2. Brainstormed about the Debian-based live image for Vanier CST/CSM programs: 
+   - Think about the design of logos for Vanier FLOSS club as well as other art to be possibly used for the image.
+   - Possible project idea for LaunchBox (only a prototype is needed).
+   - Check out https://github.com/tassia/vanierFLOSS/issues/9
+  3. Discussed the JobFinderBot project (DiscordPy API), for more info check out https://github.com/vyacheslav31/JobFinderBot. 
+
+TODO: 
+  1. Look up the licenses to the software used in the CST/CSM programs and find alternatives to the proprietary ones -
+    as a first step towards designing the Debian live image. 
+    The software gathered is currently listed in https://pad.riseup.net/p/I7mCZSsPSDlJkCXjzl2m.
+  2. Research on how live images work and how to build and deploy one.
+  3. Reorganize the meetings folder in our GitHub repository (make a folder per semester).
