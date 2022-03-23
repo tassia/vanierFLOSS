@@ -67,11 +67,14 @@ in any of the following, consider joining!
 
 ## Where and when do we meet?
 
+Our main means of communication is a discord server. Get in touch with one of
+the club members, and ask for an invitation.
+
 We use [Jitsi](https://meet.jit.si/) in our virtual meetings, a FLOSS solution
 for video conferencing. Join [our channel](https://meet.jit.si/vanierFLOSS) and
 make yourself at home! No account needed.
 
-We have a weekly check-in on Thursday from 18:00 to 19:00, which
+[NEEDS UPDATE] We have a weekly check-in on Thursday from 18:00 to 19:00, which
 sometimes goes on a bit later. Club members work on their own FLOSS
 activities over the week, and might plan additonal meetings as needed.
 
