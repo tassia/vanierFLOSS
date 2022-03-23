@@ -69,7 +69,7 @@ in any of the following, consider joining!
 
 We use [Jitsi](https://meet.jit.si/) in our virtual meetings, a FLOSS solution
 for video conferencing. Join [our channel](https://meet.jit.si/vanierFLOSS) and
-make yourself at home! No accounte needed.
+make yourself at home! No account needed.
 
 We have a weekly check-in on Thursday from 18:00 to 19:00, which
 sometimes goes on a bit later. Club members work on their own FLOSS
