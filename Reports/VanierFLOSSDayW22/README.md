@@ -5,6 +5,18 @@ The first Vanier FLOSS Day happened on March 15th 2022, on a Tuesday, during the
 All Computer Science and Technology (CST) and Computer Science and Math (CSM) students were
 [invited](invitation.md).
 
+Registration
+============
+
+an online form was setup...
+A total of XX students registered.
+
+Participants
+============
+
+12 participants in total: 5 CST students, 6 CSM students, 1 teacher.
+
+
 Unconference
 ============
 
@@ -22,20 +34,19 @@ Lunch and snacks
 
 Pizza for lunch and a snacks/coffee station setup outside the lab for breaks between sessions. Food provided by Faculty of Science and Technology. 
 
-Participants
-============
-
-12 participants in total: 5 CST students, 6 CSM students, 1 teacher.
-
 
 Testimonials
 ============
+
+What did you learn? Did you have fun? How was the logistics (eg food)?
 
 (add your own here...)
 
 
 Lessons for future events
 =========================
+
+(add here what you think could go better the next time...)
 
 
 Orga Team: Vanier FLOSS Club
