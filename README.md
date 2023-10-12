@@ -1,6 +1,9 @@
-# Vanier FLOSS
+# Vanier FLOSS Club
 
 Welcome to Vanier College FLOSS Club!
+
+Where the Vanier community gets together to celebrate and contribute to
+[FLOSS](#what) projects.
 
 If you are just curious or already passionate about the FLOSS world, you are
 more than welcome to join us!
@@ -38,17 +41,17 @@ Refer to our [curated list of FLOSS projects](projects.md) and get inspired!
 
 ## What are typical contributions? Can students help?
 
-Totally yes! If you've done and of the following, that's what we do!
+Totally yes! If you've done any of the following, that's what we do!
 
  * Coding
  * Testing and Reporting bugs
  * Writing documentation
  * Translating software or documentation
  * Designing graphical material
- * Mentoring newbies
+ * Mentoring newcomers
 
 Even if you haven't done any of the above, if you need a helping hand to start
-contributing, join the club and you'll be at the right place.
+contributing, join the Club and you'll be at the right place.
 
 <a name="why" />
 
@@ -67,17 +70,20 @@ in any of the following, consider joining!
 
 ## Where and when do we meet?
 
-Our main means of communication is a discord server. Get in touch with one of
-the club members, and ask for an invitation.
+Our main means of communication is a [discord server](https://discord.gg/rBKb9JRQGD).
 
-We use [Jitsi](https://meet.jit.si/) in our virtual meetings, a FLOSS solution
+We use [Jitsi](https://meet.jit.si/) for our virtual meetings, a FLOSS solution
 for video conferencing. Join [our channel](https://meet.jit.si/vanierFLOSS) and
 make yourself at home! No account needed.
 
-[NEEDS UPDATE] We have a weekly check-in on Thursday from 18:00 to 19:00, which
-sometimes goes on a bit later. Club members work on their own FLOSS
-activities over the week, and might plan additonal meetings as needed.
+In the past, we used to have weekly meetings at the STEM Center,
+but since many members graduated, we are basically meeting to run the FLOSS
+Day, once a semester.
 
-If you want to propose another meeting time, just find another person that is
-available at the same time, announce to the club, then more people might
-join as well!
+Meeting in-person is specially important for newcomers, as a way to quickly get
+them into the FLOSS world. While club members work on their own FLOSS activities
+over the week, having people around might encourage more contributions.
+
+If you want to propose the return of regular meetings, please announce it in the
+club server and we'll create a [pool](https://framadate.org/) to figure out the
+most popular time slot.
