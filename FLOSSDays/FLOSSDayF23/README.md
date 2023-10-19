@@ -8,13 +8,13 @@ FLOSS community, since the event was posted at [Agenda du Libre](https://agendad
 Registration
 ============
 
-An online form was setup and 29 people were registered prior to the event. On the day, 22 people checked
-in, plus 1 baby and 1 accompaning family member, which participated in their own capacity. 
+An online form was setup and 29 people were registered prior to the event. On the day, 22 [FIXME] people
+checked in, plus 1 baby and 1 accompaning family member, which participated in their own capacity. 
 
 Checked-in participants
 =======================
 
-22 participants in total:
+22 [FIXME] participants in total:
 
 - X CST students
 - 2 CST graduates
@@ -41,7 +41,7 @@ had to leave.
 Lunch and snacks
 ================
 
-Since the start of the day, we had a snacls station with coffee/tea/juice, fruits and pastries.
+Since the start of the day, we had a snacks station with coffee/tea/juice, fruits and pastries.
 For lunch, once more we had pizza, since it was the easier way to handle dietary restrictions -
 this time we had a wide variety: vegetarian, gluten-free, halal and kosher. 
 
@@ -63,7 +63,7 @@ Orga Team: Vanier FLOSS Club
 ============================
 
 - Giuliana Bouzon
-- Anthony Nadeua
+- Anthony Nadeau
 - Justin Bax
 - Samuel
 - Tassia Araujo
