@@ -23,7 +23,6 @@ Checked-in participants
 - 1 Computer Science teacher
 - 1 Computer Engineering teacher
 
-
 Unconference
 ============
 
@@ -37,6 +36,7 @@ had to leave.
 
 [ADD SCHEDULE]
 
+[ADD PIC SELECTION]
 
 Lunch and snacks
 ================
@@ -62,11 +62,14 @@ Lessons for future events
 Orga Team: Vanier FLOSS Club
 ============================
 
-- Giuliana Bouzon
+<img src="https://github.com/tassia/vanierFLOSS/blob/main/FLOSSDays/FLOSSDayF23/pictures/IMG_3052.JPG" width="50%" height="50%">
+
 - Anthony Nadeau
+- Giuliana Bouzon
+- Tassia Araujo
 - Justin Bax
 - Samuel
-- Tassia Araujo
+
 
 Acknowledgement
 ===============
