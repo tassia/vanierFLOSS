@@ -8,20 +8,28 @@ FLOSS community, since the event was posted at [Agenda du Libre](https://agendad
 Registration
 ============
 
-An online form was setup and 29 people were registered prior to the event. On the day, 22 [FIXME] people
+An online form was setup and 29 people were registered prior to the event. On the day, 21 people
 checked in, plus 1 baby and 1 accompaning family member, which participated in their own capacity. 
 
 Checked-in participants
 =======================
 
-22 [FIXME] participants in total:
+21 participants in total:
 
-- X CST students
-- 2 CST graduates
-- Y CSM students
-- 1 Pure and Applied Sciences
-- 1 Computer Science teacher
-- 1 Computer Engineering teacher
+- Vanier community:
+  - 4 Computer Science and Technology (CST) students
+  - 2 CST graduates
+  - 4 Computer Science and Mathematics students
+  - 2 Software (Continuing Education) students
+  - 1 Social Science - general student
+  - 1 Liberal arts student
+  - 1 Pure and Applied Sciences student
+  - 1 Computer Science teacher
+  - 1 Computer Engineering teacher
+
+Outside from Vanier:
+- 1 High school student
+- 3 professionals / general population
 
 Unconference
 ============
@@ -41,7 +49,7 @@ had to leave.
 Lunch and snacks
 ================
 
-Since the start of the day, we had a snacks station with coffee/tea/juice, fruits and pastries.
+At the beginning of the day, a snacks station was setup with coffee/tea/juice, fruits and pastries.
 For lunch, once more we had pizza, since it was the easier way to handle dietary restrictions -
 this time we had a wide variety: vegetarian, gluten-free, halal and kosher. 
 
