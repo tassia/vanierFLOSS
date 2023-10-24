@@ -56,9 +56,9 @@ this time we had a wide variety: vegetarian, gluten-free, halal and kosher.
 Testimonials
 ============
 
-What did you learn? Did you have fun? How was the logistics (eg food)?
+What did you learn? Did you have fun? How was the logistics (e.g. food)?
 
-(add your own here...)
+Justin: From what I've seen, the day seemed to have started off great! I never attended an unconference-style meeting, but having a dynamic schedule that adapts to everyone who shows up is really the best way to do things, even though not every participant seemed to be sure what to do at first.
 
 
 Lessons for future events
@@ -66,6 +66,7 @@ Lessons for future events
 
 (add here what you think could go better the next time...)
 
+Justin: Don't forget to take a group picture! Also next time try not to have a hackathon the same day... (note to myself)
 
 Orga Team: Vanier FLOSS Club
 ============================
