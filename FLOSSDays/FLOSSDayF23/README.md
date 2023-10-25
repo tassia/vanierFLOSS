@@ -2,7 +2,7 @@ Vanier FLOSS Day - Fall 2023
 ==============================
 
 The second edition of Vanier FLOSS Day happened on October 14th 2023, on a Saturday, just after the school
-Fall break. All Vanier community was invited, through MIOs and a printed poster, as well as the outside
+Fall break. All Vanier community was invited, through MIOs and a [printed poster](flossDayPoster.png), as well as the outside
 FLOSS community, since the event was posted at [Agenda du Libre](https://agendadulibre.qc.ca/events/2409).
 
 Registration
@@ -38,13 +38,24 @@ The meeting was run in an [unconference](https://en.wikipedia.org/wiki/Unconfere
 We started the day with an introduction to FLOSS and licenses, then we built the schedule with
 topics collected from the registration form, plus some requets and offers of topics on the day.
 
-To define the schedule we had a show of hands on the proposed topics and sessoins were ordered
+To define the schedule we had a show of hands on the proposed topics and sessions were ordered
 taking into consideration its popularity as well as a few requests to accomodate when people
 had to leave. 
 
-[ADD SCHEDULE]
+Covered topics:
+- Intro to FLOSS, Open Culture and Licensing (Tassia)
+- Git, github & profile (Giuliana)
+- Improving Security using RPi (Justin)
+- Intro & contributing to Debian (Tassia)
+- Fediverse (Tony)
+- Intro to Devops (Giuliana)
+- Video Game emulation with RetroPie (Tony)
+- Projects in electronics (Andreea)
+- Radio Pyo: Free music written in Python (Tiago)
+- Personal weather station with Raspberry Pi (Tiago)
+- 3D printing: the process to print the FLOSS Day key chain (Tony)
 
-[ADD PIC SELECTION]
+[FIXME: ADD PIC SELECTION]
 
 Lunch and snacks
 ================
@@ -58,7 +69,7 @@ Testimonials
 
 What did you learn? Did you have fun? How was the logistics (e.g. food)?
 
-Justin: From what I've seen, the day seemed to have started off great! I never attended an unconference-style meeting, but having a dynamic schedule that adapts to everyone who shows up is really the best way to do things, even though not every participant seemed to be sure what to do at first.
+> Justin: From what I've seen, the day seemed to have started off great! I never attended an unconference-style meeting, but having a dynamic schedule that adapts to everyone who shows up is really the best way to do things, even though not every participant seemed to be sure what to do at first.
 
 
 Lessons for future events
@@ -66,7 +77,7 @@ Lessons for future events
 
 (add here what you think could go better the next time...)
 
-Justin: Don't forget to take a group picture! Also next time try not to have a hackathon the same day... (note to myself)
+>Justin: Don't forget to take a group picture! Also next time try not to have a hackathon the same day... (note to myself)
 
 Orga Team: Vanier FLOSS Club
 ============================
