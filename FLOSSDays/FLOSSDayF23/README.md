@@ -34,7 +34,7 @@ Outside from Vanier:
 Swag
 ====
 
-All participants took home a [FLOSS Day 3-D printed key chain](https://github.com/tassia/vanierFLOSS/blob/main/FLOSSDays/FLOSSDayF23/pictures/PXL_20231013_000557515.png) as well as a [USB stick with a Debian live image](https://github.com/tassia/vanierFLOSS/blob/main/FLOSSDays/FLOSSDayF23/pictures/IMG_20231012_2226422.jpg) to try out.
+All participants took home a [FLOSS Day 3-D printed key chain](https://github.com/tassia/vanierFLOSS/blob/main/FLOSSDays/FLOSSDayF23/pictures/PXL_20231013_000557515.png) as well as a [USB stick with a Debian live image](https://github.com/tassia/vanierFLOSS/blob/main/FLOSSDays/FLOSSDayF23/pictures/IMG_20231012_2226422.jpg) to try out - live images allow running the OS directly from the USB, and can be used to later install it to disk.
 
 Unconference
 ============
