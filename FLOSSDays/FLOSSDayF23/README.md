@@ -31,6 +31,11 @@ Outside from Vanier:
 - 1 High school student
 - 3 professionals / general population
 
+Swag
+====
+
+All participants took home a [FLOSS Day 3-D printed key chain](https://github.com/tassia/vanierFLOSS/blob/main/FLOSSDays/FLOSSDayF23/pictures/PXL_20231013_000557515.png) as well as a [USB stick with a Debian live image](https://github.com/tassia/vanierFLOSS/blob/main/FLOSSDays/FLOSSDayF23/pictures/IMG_20231012_2226422.jpg) to try out.
+
 Unconference
 ============
 
@@ -60,9 +65,10 @@ Covered topics:
 Lunch and snacks
 ================
 
-At the beginning of the day, a snacks station was setup with coffee/tea/juice, fruits and pastries.
+At the beginning of the day, a [snacks station](https://github.com/tassia/vanierFLOSS/blob/main/FLOSSDays/FLOSSDayF23/pictures/IMG_3046.JPG) was setup with coffee/tea/juice, fruits and pastries.
 For lunch, once more we had pizza, since it was the easier way to handle dietary restrictions -
 this time we had a wide variety: vegetarian, gluten-free, halal and kosher. 
+
 
 Testimonials
 ============
