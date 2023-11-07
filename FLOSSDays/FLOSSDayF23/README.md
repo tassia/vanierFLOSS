@@ -77,6 +77,7 @@ What did you learn? Did you have fun? How was the logistics (e.g. food)?
 
 > Justin: From what I've seen, the day seemed to have started off great! I never attended an unconference-style meeting, but having a dynamic schedule that adapts to everyone who shows up is really the best way to do things, even though not every participant seemed to be sure what to do at first.
 
+> Andreea: It made me want to get involved.
 
 Lessons for future events
 =========================
