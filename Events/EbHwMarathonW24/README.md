@@ -43,7 +43,7 @@ What did you learn? Did you have fun? How was the logistics (e.g. food)?
 Group photo
 =============
 
-<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/EbHwMarathonW24/pictures/IMG_20240224_141632.jpg" width="50%" height="50%">
+<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/EbHwMarathonW24/pictures/IMG_20240224_141632.jpg" width="90%" height="90%">
 
 
 Lessons for future events
