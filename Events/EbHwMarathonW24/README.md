@@ -10,28 +10,21 @@ Club, EB invited Vanier students for a day of activities.
  
 The day started with a little tour of the EB labs, with plenty of machines and
 tools to amaze any maker eyes: CNC, vinyl cutter, laser cutter, 3D printers, 3D
-scanner, heatpress, etc. Then we had a little workshop on hardware inventory by
-Anthony Nadeau and Giuliana Bouzon, getting ready to tackle the task of making
-an inventory of a pile of donated laptops, tablets and phones. 
+scanner, heatpress, etc. Then we had a workshop on hardware inventory, getting
+ready to tackle the task of making an inventory of a pile of donated laptops,
+tablets and phones. 
 
 In exchange for the help, EB has offered a 3-month access to their labs and
 machines to volunteers, from March to May 2024. It was also a great opportunity
 for students to be exposed to a variety of hardware and learn about how to
 recognize and inventory those, as well as to collect STAR hours for those interested.
 
-Hardware workshop
-==================
-
-The workshop was facilitated by Giuliana Bouzon and Anthony Nadeau, both Vanier
-alumni and members of the FLOSS club. The two of them have worked in computer
-retail companies, and have plenty of experience on recognizing tech goodies.
-
 Registration
 ============
 
 An online form was setup and we announced that we had a limited number of spots
 available. We were aiming to have max 15 people, including organizers, and we
-ended up with 14, amazing!
+ended up with 14, amazing!!!
 
 Total of 13 students had registered, with 3 cancellations prior to the event. On
 the day, among participants and organizers, we were 10 people working as
@@ -47,6 +40,29 @@ Participants
   - 1 Pure and Applied Sciences student
   - 1 Computer Science teacher
 
+Workshop
+=========
+
+The workshop and inventory were facilitated by Giuliana Bouzon and Anthony Nadeau, both Vanier
+alumni and members of the FLOSS club. The two of them have worked in computer
+retail companies, and have plenty of experience on recognizing tech goodies.
+
+Hardware inventory
+==================
+
+The very first step was to label machines with a sequential ID, and distribute piles
+of 5 machines per seat, so each participant had an initial target.
+
+An online spreadsheet had been prepared to collect the following info: ID, Serial Number,
+Power Cable Included, Video Output,	Number of USB Ports,	Operating System,	Processor (CPU),
+GPU name or Integrated, Memory (RAM),	Storage Size, WiFi or Ethernet,	Battery Functional (%),
+Technician, Comments.
+
+Participants were instructed to follow a series of steps and/or
+commands, based on the operating system at hands. If no operating system could be booted,
+we had plenty of USBs with Debian live systems to boot from and retrieve the needed
+information. The spreadsheet was collaboratively filled, and at the end of the day we had
+an inventory with 64 machines.
 
 Lunch
 =====
