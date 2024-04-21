@@ -71,6 +71,27 @@ Lunch was provided by Vanier FST. Once more we had pizza, easy to handle
 dietary restrictions. A good addition this time is that we have ordered
 some desert to keep sugar a desired happy level ;-) 
 
+Laptop Donation
+=====
+
+As a thank you to our efforts in this marathon, EB donated 15 laptops to us. 
+After discussing what to do with these laptops, we came to the following conclusion:
+
+- 5 for donation (India, or possibly bring to DebConf)
+- 3 for raffle (next rounds of usability tests)
+- 5 for Release Testing, Usability Testing, events & FLOSS club in general
+- 2 for club members
+
+There are just some ideas for the moment, and nothing is final.
+
+Below are the assortment of laptops that we received:
+1, 10, 25, 26, 41, 45, 56, 62, 63 - L430 Laptop (ThinkPad) - Type 2465
+5, 28, 29, 31 - T420 Laptop (ThinkPad) - Type 4180
+35 - T420 Laptop (ThinkPad) - Type 4236
+36 - Dell Latitude E5440
+
+Note: the numbers in front of the laptop models are the identification number for each one.
+More information about these laptops can be found here: [Laptop Inventory](https://docs.google.com/spreadsheets/d/1hBGaH84nGHywsOGEJKoVhGr8J_BdgaMqViLLgPjgEZA/edit?usp=sharing)
 
 Testimonials
 ============
