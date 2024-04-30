@@ -12,4 +12,12 @@ Date,Task,Hours
 20210223,"Improvements to club git repo: README, reports, meetings",2
 20210224,"Debian QA - autopkgtest (multiqc): https://salsa.debian.org/med-team/multiqc/-/commit/741a07b5543bc5a0c0a287bc653c2d9a7b8cebe5",2
 ,,
+debian-dug-quebec
+translation + adapt/build packaging-tutorial - falta abrir o bug
+translation jalview_pt_BR.po
+review pam_pt_BR.po
+review release-notes
+usability
+outreachy
+
 ,Total,19
