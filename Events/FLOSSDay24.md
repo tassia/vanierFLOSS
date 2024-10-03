@@ -16,7 +16,7 @@
 
 LUNCH
 
-**14:00** All about Tor (Antoine Beaupré)
+**14:00** The Tor Project (Antoine Beaupré)
 
 **15:00** Lightning talks/demos
 
@@ -27,3 +27,5 @@ LUNCH
 - Debian Packaging (Tiago Vaz)
       
 **17:00** Final words
+
+Registration form: https://shorturl.at/j629r
