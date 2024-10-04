@@ -2,7 +2,7 @@
 
 **09:30** Mingling and coffee time
 
-**10:00** Intro to FLOSS (Tassia Camoes-Araujo)
+**10:00** Welcome & Intro to FLOSS (Tassia Camoes-Araujo)
 
 **10:30** How to contribute to FLOSS projects (Qian Qian)
 
