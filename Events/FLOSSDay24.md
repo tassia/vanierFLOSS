@@ -25,7 +25,7 @@ LUNCH
 - Hands-on Git (Andrei Popescu)
 - Makerspace Tool Showcase (Anghelos Coulon)
 - Debian Packaging (Tiago Vaz)
-- Getting started on OpenStreetMap
+- Getting started on OpenStreetMap (Jenny Zhu and Nicholas Foisy)
       
 **17:00** Final words
 
