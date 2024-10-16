@@ -6,7 +6,7 @@
 
 **10:30** How to contribute to FLOSS projects (Qian Qian)
 
-**11:00** OpenStreetMap and McGill Open Mapping Group (Jenny Zhu and Nicholas Foisy)
+**11:00** Introduction to OpenStreetMap and open-source mapping (Jenny Zhu and Nicholas Foisy)
 
 **12:00** Parrot Security (Kais Rafie)
 
@@ -25,8 +25,6 @@ LUNCH
 - Hands-on Git (Andrei Popescu)
 - Makerspace Tool Showcase (Anghelos Coulon)
 - Debian Packaging (Tiago Vaz)
-- Getting started on OpenStreetMap (Jenny Zhu and Nicholas Foisy)
+- Introduction to mapping with OpenStreetMap (Jenny Zhu and Nicholas Foisy)
       
 **17:00** Final words
-
-Registration form: https://shorturl.at/j629r
