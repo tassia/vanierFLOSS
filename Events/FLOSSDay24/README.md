@@ -1,7 +1,7 @@
 Vanier FLOSS Day 2024 
 ======================
 
-<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDay23/group_photo.jpg" width="80%">
+<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDay24/group_photo.jpg" width="80%">
 
 [WIP] please send a PR with your contribution to improve this report!
 
