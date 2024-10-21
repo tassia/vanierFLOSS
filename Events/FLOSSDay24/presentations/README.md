@@ -6,7 +6,7 @@ Creative Commons Attribution-ShareAlike 4.0 International Public License
 
 ### Aditional resources
 
-https://github.com/Cubik65536/VanierFLOSSDay24Talk
-https://github.com/NLTuan/floss-talk/tree/main
-https://github.com/tiagovaz/vanier-flossday-2024
+- https://github.com/Cubik65536/VanierFLOSSDay24Talk (FLOSS get started)
+- https://github.com/NLTuan/floss-talk/tree/main (Open-Source AI)
+- https://github.com/tiagovaz/vanier-flossday-2024 (Debian Packaging)
 
