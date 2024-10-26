@@ -43,19 +43,16 @@ a selection of FLOSS project stickers were printed and made available.
 
 The keychain is based on a Tinkercad design of [IronGears10](https://www.tinkercad.com/things/iPPfRoUBe1q-3d-pcb-layout) licensed based on CC BY-SA 3.0. There are some modification done. Final Tinkercad is shared [here](https://www.tinkercad.com/things/lqzVt5o8N8M-vanier-floss-day-swag-3d), and you can find the final design in form of the Prusa Slicer project (`3mf`) in this repo.
 
-We had a few prototypes experimenting corner design and color matching:
+We had a few prototypes experimenting corner design and color matching; and finally the design preview of the final design.
+| ![3d-swag-prototypes](pictures/IMG_0605.jpeg) | ![final-design](pictures/3D%20SWAG%20Design%20Technical%20Preview.png) |
+| -------------- | --------------- |
+| 3d swag prototypes | final design preview |
 
-![3d-swag-prototypes](pictures/IMG_0605.jpeg)
+Then the final design was produced in batch by Vanier Makerspace and got ready before the FLOSS Day.
 
-These are the design preview of the final design:
-
-![3d-swag-prototypes](pictures/3D%20SWAG%20Design%20Technical%20Preview.png)
-
-Then final design are made in batch by Vanier Makerspace and got ready before the FLOSS Day.
-
-![mass-production](pictures/IMG_0626.jpeg)
-
-![final](pictures/IMG_0627.jpg)
+| ![mass-production](pictures/IMG_0626.jpeg)| ![3d-keychain](pictures/IMG_0627.jpg) |
+| -------------- | --------------- |
+| mass production | 3d keychain |
 
 ### TODO: Stickers
 
