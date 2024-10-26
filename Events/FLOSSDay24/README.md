@@ -67,7 +67,29 @@ the afternoon.
 - a 7-speakers Lightning Talks session, where each participant had 3 min to share about a cool FLOSS project
 - 3 hands-on workshops in parallel: OSM, Git, Debian packaging 
 
-FIXME: add timetable and links to presentations
+| Time | Activity | Speaker |
+| -------------- | --------------- | --------------- |
+| 09:30 | Mingling and coffee time | |
+| 10:00 | Welcome & Intro to FLOSS | Tassia Camoes-Araujo |
+| 10:30 | How to contribute to FLOSS projects | Qian Qian |
+| 11:00 | Introduction to OpenStreetMap and open-source mapping | Jenny Zhu and Nicholas Foisy |
+| 12:00 | Parrot Security | Kais Rafie |
+| 12:30 | GNU/Linux demo, by UNIX course students: | |
+|       | - Kali Linux | Ibrahim El Zeftawy |
+|       | - Raspberry pi | Aya Kharchafi |
+|       | - OpenSUSE | Lydia Ayala Hernandez |
+|       | - Tails | Yakin Succès |
+|       | - Arch Linux | Alexander Nguyen |
+| 13:00 | Lunch & Group photo | |
+| 14:00 | The Tor Project | Antoine Beaupré |
+| 15:00 | Lightning talks/demos | |
+| 15:30 | Workshops | |
+|       | - Hands-on Git | Andrei Popescu |
+|       | - Debian Packaging | Tiago Vaz |
+|       | - Introduction to mapping with OpenStreetMap | Jenny Zhu and Nicholas Foisy |
+| 17:00 | Final words | |
+
+FIXME: add lightning talks speakers and links to presentations
 
 Drawing robot
 ===============
