@@ -21,7 +21,7 @@ the day, 44 people checked in:
   - 10 Computer Science and Mathematics (CSM) students
   - 22 Computer Science and Technology (CST) students
   - 1 Vanier CS student (did not specify the program)
-  - 2 Alumini
+  - 2 Alumni
   - 3 Computer Science teachers
   - 1 Computer Engineering teacher
   - 1 Makerspace technician
