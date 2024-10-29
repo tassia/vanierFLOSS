@@ -19,7 +19,8 @@ the day, 44 people checked in:
 
 - Vanier community:
   - 10 Computer Science and Mathematics (CSM) students
-  - 19 Computer Science and Technology (CST) students
+  - 22 Computer Science and Technology (CST) students
+  - 1 Vanier CS student (did not specify the program)
   - 2 Alumini
   - 3 Computer Science teachers
   - 1 Computer Engineering teacher
@@ -29,8 +30,7 @@ the day, 44 people checked in:
   - 2 McGill students (McGill Open Mapping Group)
   - 2 FLOSS developers (Tor and Debian projects)
 
-- Did not specify:
-  - 4 attendees registered with no affiliation 
+This time we had less program diversity than last year, when several students from non-CS regular programs also attended the meeting. Among the cancellations and no-shows for this year, we had several students from Health Sciences, Electrical Engineering and CS continuing education programs. Something to strive for next year: keep those participants engaged until the day of the event.
 
 Swag
 ====
