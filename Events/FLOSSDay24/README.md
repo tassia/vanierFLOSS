@@ -1,7 +1,7 @@
 Vanier FLOSS Day 2024 
 ======================
 
-<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDay24/group_photo.jpg" width="80%">
+<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDay24/group_photo.jpg" width="100%">
 
 [WIP] please send a PR with your contribution to improve this report!
 
@@ -18,28 +18,42 @@ An online form was setup and 58 people were registered prior to the event. On
 the day, 44 people checked in: 
 
 - Vanier community:
-  - X Computer Science and Technology (CST) students
-  - 2 CST graduates
-  - X Computer Science and Mathematics students
-  - X Software (Continuing Education) students
-  - X Social Science - general student
-  - X Liberal arts student
-  - X Pure and Applied Sciences student
-  - 3 Computer Science teacher
+  - 10 Computer Science and Mathematics (CSM) students
+  - 22 Computer Science and Technology (CST) students
+  - 1 Vanier CS student (did not specify the program)
+  - 2 Alumni
+  - 3 Computer Science teachers
   - 1 Computer Engineering teacher
   - 1 Makerspace technician
 
-- Outside from Vanier:
+- Outside from Vanier (guest speakers):
   - 2 McGill students (McGill Open Mapping Group)
   - 2 FLOSS developers (Tor and Debian projects)
+
+This time we had less program diversity than last year, when several students from non-CS regular programs also attended the meeting. Among the cancellations and no-shows for this year, we had several students from Health Sciences, Electrical Engineering and CS continuing education programs. Something to strive for next year: keep those participants engaged until the day of the event.
 
 Swag
 ====
 
-All participants took home a FLOSS Day 3-D printed keychain. On top of that,
+All participants took home a FLOSS Day 3D printed keychain. On top of that,
 a selection of FLOSS project stickers were printed and made available.
 
-FIXME: add picture
+### 3D Printed Keychain
+
+The keychain is based on a Tinkercad design of [IronGears10](https://www.tinkercad.com/things/iPPfRoUBe1q-3d-pcb-layout) licensed under CC BY-SA 3.0. There are some modification done. Final Tinkercad is shared [here](https://www.tinkercad.com/things/lqzVt5o8N8M-vanier-floss-day-swag-3d), and you can find the final design in form of the Prusa Slicer project (`3mf`) in this repo.
+
+We had a few prototypes experimenting corner design and color matching; and finally the design preview of the final design.
+| ![3d-swag-prototypes](pictures/IMG_0605_small.jpeg) | ![final-design](pictures/3D%20SWAG%20Design%20Technical%20Preview%20cut.png) |
+| -------------- | --------------- |
+| 3d swag prototypes | final design preview |
+
+Then the final design was produced in batch by Vanier Makerspace and got ready before the FLOSS Day.
+
+| ![mass-production](pictures/IMG_0626.jpeg)| ![3d-keychain](pictures/IMG_0627.jpg) |
+| -------------- | --------------- |
+| mass production | 3d keychain |
+
+### TODO: Stickers
 
 Schedule
 ==========
@@ -52,7 +66,29 @@ the afternoon.
 - a 7-speakers Lightning Talks session, where each participant had 3 min to share about a cool FLOSS project
 - 3 hands-on workshops in parallel: OSM, Git, Debian packaging 
 
-FIXME: add timetable and links to presentations
+| Time | Activity | Speaker |
+| -------------- | --------------- | --------------- |
+| 09:30 | Mingling and coffee time | |
+| 10:00 | Welcome & Intro to FLOSS | Tassia Camoes-Araujo |
+| 10:30 | How to contribute to FLOSS projects | Qian Qian |
+| 11:00 | Introduction to OpenStreetMap and open-source mapping | Jenny Zhu and Nicholas Foisy |
+| 12:00 | Parrot Security | Kais Rafie |
+| 12:30 | GNU/Linux demo, by UNIX course students: | |
+|       | - Kali Linux | Ibrahim El Zeftawy |
+|       | - Raspberry pi | Aya Kharchafi |
+|       | - OpenSUSE | Lydia Ayala Hernandez |
+|       | - Tails | Yakin Succès |
+|       | - Arch Linux | Alexander Nguyen |
+| 13:00 | Lunch & Group photo | |
+| 14:00 | The Tor Project | Antoine Beaupré |
+| 15:00 | Lightning talks/demos | |
+| 15:30 | Workshops | |
+|       | - Hands-on Git | Andrei Popescu |
+|       | - Debian Packaging | Tiago Vaz |
+|       | - Introduction to mapping with OpenStreetMap | Jenny Zhu and Nicholas Foisy |
+| 17:00 | Final words | |
+
+FIXME: add lightning talks speakers and links to presentations
 
 Drawing robot
 ===============
