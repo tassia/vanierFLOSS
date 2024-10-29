@@ -82,7 +82,7 @@ the afternoon.
 | 13:00 | Lunch & Group photo | |
 | 14:00 | [The Tor Project](presentations/Tor/Tor_internet_surveillance.pdf) | Antoine Beaupré |
 | 15:00 | Lightning talks/demos | |
-|       | - [Ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Qian Quian |
+|       | - [Ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Qian Qian |
 |       | - [Godot](presentations/godot_notes.md) | Alexandru Cirlan |
 |       | - Security Do's and Don't | Nabil Ramadan |
 |       | - Tasker | Ali |
