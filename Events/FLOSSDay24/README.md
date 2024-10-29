@@ -18,20 +18,19 @@ An online form was setup and 58 people were registered prior to the event. On
 the day, 44 people checked in: 
 
 - Vanier community:
-  - X Computer Science and Technology (CST) students
-  - 2 CST graduates
-  - X Computer Science and Mathematics students
-  - X Software (Continuing Education) students
-  - X Social Science - general student
-  - X Liberal arts student
-  - X Pure and Applied Sciences student
-  - 3 Computer Science teacher
+  - 10 Computer Science and Mathematics (CSM) students
+  - 19 Computer Science and Technology (CST) students
+  - 2 Alumini
+  - 3 Computer Science teachers
   - 1 Computer Engineering teacher
   - 1 Makerspace technician
 
-- Outside from Vanier:
+- Outside from Vanier (guest speakers):
   - 2 McGill students (McGill Open Mapping Group)
   - 2 FLOSS developers (Tor and Debian projects)
+
+- Did not specify:
+  - 4 attendees registered with no affiliation 
 
 Swag
 ====
