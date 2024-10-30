@@ -69,9 +69,9 @@ the afternoon.
 | Time | Activity | Speaker |
 | -------------- | --------------- | --------------- |
 | 09:30 | Mingling and coffee time | |
-| 10:00 | Welcome & Intro to FLOSS | Tassia Camoes-Araujo |
-| 10:30 | How to contribute to FLOSS projects | Qian Qian |
-| 11:00 | Introduction to OpenStreetMap and open-source mapping | Jenny Zhu and Nicholas Foisy |
+| 10:00 | [Welcome & Intro to FLOSS](presentations/flossday24_intro.pdf) | Tassia Camoes-Araujo |
+| 10:30 | [How to contribute to FLOSS projects](presentations/floss_get_started.pdf) | Qian Qian |
+| 11:00 | [Introduction to OpenStreetMap](OSM.pdf) and [open-source mapping](presentations/OSM_and_GIS.pdf) | Jenny Zhu and Nicholas Foisy |
 | 12:00 | Parrot Security | Kais Rafie |
 | 12:30 | GNU/Linux demo, by UNIX course students: | |
 |       | - Kali Linux | Ibrahim El Zeftawy |
@@ -80,15 +80,20 @@ the afternoon.
 |       | - Tails | Yakin Succès |
 |       | - Arch Linux | Alexander Nguyen |
 | 13:00 | Lunch & Group photo | |
-| 14:00 | The Tor Project | Antoine Beaupré |
+| 14:00 | [The Tor Project](presentations/Tor/Tor_internet_surveillance.pdf) | Antoine Beaupré |
 | 15:00 | Lightning talks/demos | |
+|       | - [Ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Qian Qian |
+|       | - [Godot](presentations/godot_notes.md) | Alexandru Cirlan |
+|       | - Security Do's and Don't | Nabil Ramadan |
+|       | - Tasker | Ali |
+|       | - [Open-source AI](presentations/open_source_ai.pdf) | Le Tuan Huy Nguyen |
+|       | - Makefiles | Giuliana Bouzon | 
+|       | - Arduino | Manas Patel | 
 | 15:30 | Workshops | |
-|       | - Hands-on Git | Andrei Popescu |
-|       | - Debian Packaging | Tiago Vaz |
+|       | - [Hands-on Git](presentations/Git_workshop.pdf) | Andrei Popescu |
+|       | - [Debian Packaging](presentations/debian_packaging_tutorial.pdf) | Tiago Vaz |
 |       | - Introduction to mapping with OpenStreetMap | Jenny Zhu and Nicholas Foisy |
 | 17:00 | Final words | |
-
-FIXME: add lightning talks speakers and links to presentations
 
 Drawing robot
 ===============
