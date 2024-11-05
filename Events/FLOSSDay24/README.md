@@ -102,7 +102,7 @@ The Tor onion was being "cooked" as presentations were taking place, and by the
 end of the day participants could appreciate the beautiful onion logo from Tor
 project.
 
-| ![tor-drawn-with-robot](pictures/IMG_0673.jpeg) |
+| ![tor-drawn-with-robot](pictures/IMG_0673.jpg) |
 | -------------- |
 | The Tor onion logo drawn by the robot |
 
