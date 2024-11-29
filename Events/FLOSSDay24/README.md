@@ -80,7 +80,7 @@ the afternoon.
 | 12:00 | Parrot Security | Kais Rafie |
 | 12:30 | GNU/Linux demo, by UNIX course students: | |
 |       | - Kali Linux | Ibrahim El Zeftawy |
-|       | - [Raspberry pi](presentations/RaspberryPi.pdf) | Aya Kharchafi |
+|       | - [Raspberry Pi](presentations/Raspberry_Pi.pdf) | Aya Kharchafi |
 |       | - OpenSUSE | Lydia Ayala Hernandez |
 |       | - Tails | Yakin Succès |
 |       | - Arch Linux | Alexander Nguyen |
