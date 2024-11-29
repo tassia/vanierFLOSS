@@ -38,7 +38,7 @@ Swag
 All participants took home a FLOSS Day 3D printed keychain. On top of that,
 a selection of FLOSS project stickers were printed and made available.
 
-### 3D Printed Keychain
+### 3D Printed Keychain (by Qian Qian)
 
 The keychain is based on a Tinkercad design of [IronGears10](https://www.tinkercad.com/things/iPPfRoUBe1q-3d-pcb-layout) licensed under CC BY-SA 3.0. There are some modification done. Final Tinkercad is shared [here](https://www.tinkercad.com/things/lqzVt5o8N8M-vanier-floss-day-swag-3d), and you can find the final design in form of the Prusa Slicer project (`3mf`) in this repo.
 
@@ -53,7 +53,12 @@ Then the final design was produced in batch by Vanier Makerspace and got ready b
 | -------------- | --------------- |
 | mass production | 3d keychain |
 
-### TODO: Stickers
+### FLOSS stickers (by Manas Patel and Anghelos Coulon)
+
+We have also produced some stickers to give away. A couple of original designs for the FLOSS Day, and a few other official logos from FLOSS projects.
+
+<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDay24/pictures/IMG_20241128_100014.jpg" width="50%">
+
 
 Schedule
 ==========
@@ -75,7 +80,7 @@ the afternoon.
 | 12:00 | Parrot Security | Kais Rafie |
 | 12:30 | GNU/Linux demo, by UNIX course students: | |
 |       | - Kali Linux | Ibrahim El Zeftawy |
-|       | - Raspberry pi | Aya Kharchafi |
+|       | - [Raspberry pi](presentations/RaspberryPi.pdf) | Aya Kharchafi |
 |       | - OpenSUSE | Lydia Ayala Hernandez |
 |       | - Tails | Yakin Succès |
 |       | - Arch Linux | Alexander Nguyen |
@@ -98,13 +103,10 @@ the afternoon.
 Drawing robot
 ===============
 
-The Tor onion was being "cooked" as presentations were taking place, and by the
-end of the day participants could appreciate the beautiful onion logo from Tor
-project.
+The Tor project logo was being "cooked" by a robot as presentations were taking place, and by the
+end of the day participants could appreciate the beautiful onion logo.
 
-| ![tor-drawn-with-robot](pictures/IMG_0673.jpg) |
-| -------------- |
-| The Tor onion logo drawn by the robot |
+<img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDay24/pictures/IMG_0673.jpg" width="50%">
 
 Lunch and snacks
 ================
