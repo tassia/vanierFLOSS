@@ -3,8 +3,6 @@ Vanier FLOSS Day 2024
 
 <img src="https://github.com/tassia/vanierFLOSS/blob/main/Events/FLOSSDay24/group_photo.jpg" width="100%">
 
-[WIP] please send a PR with your contribution to improve this report!
-
 The third edition of Vanier FLOSS Day happened on October 16th 2024, on a
 Wednesday, during the school Fall break. All Vanier community was invited,
 through MIOs and a [printed poster](FLOSS_day_24_poster.png). This time we
@@ -111,23 +109,58 @@ end of the day participants could appreciate the beautiful onion logo.
 Lunch and snacks
 ================
 
-Snacks: coffee, fruits and pastries
-Lunch: pizza, the easiest to handle dietary restrictions
+- Snacks: coffee, fruits and pastries
+- Lunch: pizza, the easiest to handle dietary restrictions
 
 Testimonials
 ============
 
-*What did you learn? Did you have fun? How was the logistics (e.g. food)?*
+> What did you like most about the FLOSS Day?
 
->
+"I liked the workshop part where we could learn multiple topics that we don't know." (Alexandru Cirlan)
+
+"I really enjoyed the talks, everyone seemed to be passionate about what they wanted to show off. Educational too!" (Le Tuan Huy Nguyen)
+
+"Audience engagement" (Tassia)
+
+"I liked the tor project presentation the most as well as the presentations made by the students." (anonymous)
+
+"The talks from people that are from outside vanier (tor, OSm)" (anonymous)
+
+"Lots of questions for Tor folks!" (anonymous)
+
+
+>  Did it help you to understand what FLOSS is all about?
+
+"Yes, the idea was much clearer inside of my head than at the end of the day."  (Alexandru Cirlan)
+
+"Yes it did help me understand what FLOSS is all about thanks to all of the presentations. " (anonymous)
+
+"well, no, i already knew about that. :)" (anonymous)
+
+> Did it motivate you to contribute to FLOSS projects (even more if you already do)?
+
+"A little, I am a big fan of maps and I'm thinking of contributing a little to openstreetmap.org."  (Alexandru Cirlan)
+
+"It did motivate me to contribute to FLOSS projects, especially concerning the OpenStreetMap database (adding data about free parking is an excellent idea)." (anonymous)
+
+"Yes", "Yea", "yes!" (all anonymous)
 
 Lessons for future events
 =========================
 
-*What could go better the next time?*
+> What could go better the next time?
 
-> Tassia: put signs on the wall the day before and plan better to have the
-> check-in station ready as early as possible
+"A mic would be nice, hearing some people got a bit rough. Consider to split up workshops into different times, as a lot of people wished they could take multiple."  (Alexandru Cirlan)
+
+"Maybe the talks should be less long (smaller blocks). Timing was a little rushed for the lightning talks. Maybe there should be more focus on how to contribute but more technical." (Le Tuan Huy Nguyen)
+
+"Put signs on the wall the day before and have the check-in station ready as early as possible" (Tassia)
+
+"There should be a description for what exactly the workshops will be about." (anonymous)
+
+"More hands on stuff." (anonymous)
+
 
 Organization Team
 ==================
