@@ -12,8 +12,9 @@ room capacity.
 Participants
 ==============
 
-An online form was setup and 58 people were registered prior to the event. On
-the day, 44 people checked in: 
+An online form was setup and 58 people were registered prior to the event. This was the first time we had an auto-reply sent after registration (Thanks to Anghelos) and a reminder sent 2 days before, as an effort to keep people engaged.
+
+On the day, 44 people checked in: 
 
 - Vanier community:
   - 10 Computer Science and Mathematics (CSM) students
@@ -156,6 +157,8 @@ Lessons for future events
 "Maybe the talks should be less long (smaller blocks). Timing was a little rushed for the lightning talks. Maybe there should be more focus on how to contribute but more technical." (Le Tuan Huy Nguyen)
 
 "Put signs on the wall the day before and have the check-in station ready as early as possible" (Tassia)
+
+"Start the organization of the event a bit earlier maybe? It's a bit of a rush this year." (Qian)
 
 "There should be a description for what exactly the workshops will be about." (anonymous)
 
